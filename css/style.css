@@ -1,0 +1,92 @@
+.nav{	
+	background-color:#1a56d6;
+}
+a.nav-link{
+	font-size: 12px;
+	color:white;
+	text-align: center;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #3c6afc;
+  font-size: 20px;
+}
+.slider{
+	width: 100%;
+	height: 100%;
+	background-image: url("images/slider1.png");
+	background-color: #ccccc1;
+}
+blockquote {
+  display: block;
+  margin: auto;
+  width: 50%;
+  border: none;
+  padding: 10px;
+  text-align: left;
+  color: black;
+}
+.top-caption {
+  position: absolute;
+  right: 50%;
+  bottom: 35%;
+  left: 0%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+}
+.bottom-caption{
+  position: absolute;
+  margin-bottom: -20px;
+  right: 20%;
+  left: 20%;
+  z-index: 10;
+}
+hr{
+border: 2px solid gray;
+margin-top:30px;
+width:50%;
+}
+table{
+width:100%;
+margin-bottom: -20px;
+border-collapse: separate;
+border-spacing: 25px;
+}
+th{
+background-color: white;
+width: 180px; 
+color:black;
+text-align:left;
+margin:20px;
+padding:20px;
+}
+
+.mybutton{
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+.applybutton{
+background-color: white;
+  border: 2px solid blue;
+  color: blue;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 2px;
+}
+.col-sm{
+margin-top:15%;
+margin-bottom:15%;
+}
